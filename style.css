@@ -138,8 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .about__block {
   margin-top: 2.5rem;
-  padding-top: 2.5rem;
- 
+  padding-top: 0;
 }
 
 .about__subheading {
