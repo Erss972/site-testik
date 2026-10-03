@@ -6,8 +6,8 @@
 
 @font-face {
   font-family: '8bit';
-  src: url('fonts/fonts8bitoperator_jve.woff2') format('woff2'),
-       url('fonts/fonts8bitoperator_jve.woff') format('woff');
+  src: url('./fonts/fonts8bitoperator_jve.woff2') format('woff2'),
+       url('./fonts/fonts8bitoperator_jve.woff') format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
